@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         b站硬核会员答题辅助(Gemini ver.)
 // @namespace    https://github.com/Masetti0927
-// @version      2025-09-08
+// @version      2025-10-09
 // @description  b站硬核会员答题辅助
 // @author       masetti
 // @match        https://www.bilibili.com/h5/senior-newbie/qa
