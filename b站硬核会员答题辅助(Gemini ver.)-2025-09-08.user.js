@@ -12,7 +12,6 @@
 (function () {
     'use strict';
     // ⭐⭐⭐ 1. 请输入你的 Google AI Studio API Key ⭐⭐⭐
-    // 你也可以直接在这里把 Key 写死，例如： const API_KEY = "AIzaSy...你的Key";
     const API_KEY = prompt("请输入你的 Google AI Studio API Key:");
 
     // ⭐⭐⭐ 2. 需要别的模型这里改 ⭐⭐⭐
