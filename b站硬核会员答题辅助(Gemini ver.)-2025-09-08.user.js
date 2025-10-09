@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         b站硬核会员答题辅助(Gemini ver.)
-// @namespace    https://github.com/ssoda01
+// @namespace    https://github.com/Masetti0927
 // @version      2025-09-08
-// @description  b站硬核会员答题辅助(Gemini ver.)
-// @author       sodakoo
+// @description  b站硬核会员答题辅助
+// @author       masetti
 // @match        https://www.bilibili.com/h5/senior-newbie/qa
 // @license      GPL-3.0-only
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
