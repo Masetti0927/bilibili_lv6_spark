@@ -1,7 +1,7 @@
 # b站硬核会员答题辅助(Gemini ver.)
 
 ## 说明
-1. 此脚本魔改自[b站硬核会员答题辅助(火山方舟ver.)](https://greasyfork.org/zh-CN/scripts/548848-b%E7%AB%99%E7%A1%AC%E6%A0%B8%E4%BC%9A%E5%91%98%E7%AD%94%E9%A2%98%E8%BE%85%E5%8A%A9-%E7%81%AB%E5%B1%B1%E6%96%B9%E8%88%9Fver)，鉴于很多人不一定使用火山引擎（沟槽的人脸识别和各种麻烦登录，以及不是所有人都喜欢的需要注册抖音账号等），修改出了这一版的脚本，使用Google Ai Studio提供的API接入Gemini。
+1. 此脚本魔改自[b站硬核会员答题辅助(火山方舟ver.)](https://greasyfork.org/zh-CN/scripts/548848-b%E7%AB%99%E7%A1%AC%E6%A0%B8%E4%BC%9A%E5%91%98%E7%AD%94%E9%A2%98%E8%BE%85%E5%8A%A9-%E7%81%AB%E5%B1%B1%E6%96%B9%E8%88%9Fver)，鉴于很多人不一定使用火山引擎（麻烦人脸识别和各种登录，以及不是所有人都喜欢注册抖音账号等），修改出了这一版的脚本，使用Google Ai Studio提供的API接入Gemini。
 2. 原作者脚本存放于地址[https://github.com/ssoda01/scripts-of-tampermonkey](https://github.com/ssoda01/scripts-of-tampermonkey)。
 
 ## 安装
